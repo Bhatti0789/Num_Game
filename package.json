@@ -1,5 +1,5 @@
 {
-  "name": "abdullah_num_guess_game",
+  "name": "abdullah_num_guessing_game",
   "version": "1.0.1",
   "description": "Number Guessing Game",
   "main": "index.js",
